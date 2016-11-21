@@ -40,7 +40,7 @@ Continue working on your local copy of `grumblr`. Implement full CRUD for `grumb
 [Starter Code](https://github.com/ga-wdi-exercises/grumblr_angular/releases/tag/2.0.0)
 
     $ git checkout -b factory-resource 2.0.0
-    
+
 [Solution Code](https://github.com/ga-wdi-exercises/grumblr_angular/releases/tag/2.0.1)
 
     $ git checkout resource-solution 2.0.1
